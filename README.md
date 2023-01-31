@@ -1,3 +1,1 @@
 # LLPR-PRATICA7
-
-Strings
